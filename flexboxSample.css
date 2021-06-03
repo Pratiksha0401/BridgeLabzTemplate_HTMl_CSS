@@ -9,6 +9,8 @@ body{
     flex-flow: column wrap;
     padding: 10px;
     font-weight: bolder;
+    height: 50px;
+    font-size: 30px;
 }
 
 .footerContainer{
